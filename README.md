@@ -20,9 +20,9 @@
 
 ## 파일 확인
 
-- 버전: 1.1.0 (versionCode 4)
-- 파일 크기: 3,534,741 bytes
-- SHA-256: `3094615729dbc19dddca9ba8f84beb2d5b0c36bbb191ebfbc65ea3e557bb9dd6`
+- 버전: 1.1.1 (versionCode 5)
+- 파일 크기: 3,486,920 bytes
+- SHA-256: `2177abb39674c698c9dc1ffea2e540524d9c3a5924036023f3287f1782b8fb88`
 - 실제 증권 API 키·시크릿·기기 토큰은 APK에 포함하지 않습니다.
 
 이 저장소에는 설치 안내와 APK 배포 파일만 게시합니다. 소스·개인 DB·API 설정 파일은 올리지 않습니다.
